@@ -2,7 +2,7 @@
 
 <img src="https://github.com/VictorChimbuoDataLab/Assets/blob/main/freepik_0001.png" align="right" width="250" />
 
-<h1 align="center">Hi, I'm Victor 👋</h1>
+<h1 align="center">Hi, I am I. Victor Chimbuo👋</h1>
 
 <p align="center">
 Data Analyst | Building towards Data Science  
@@ -14,7 +14,7 @@ Data Analyst | Building towards Data Science
 
 I am a Data Analyst focused on transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
 
-I work with Excel, Power BI and SQL to build projects that solve real world problems and support decision making.
+I work with Excel and Power BI to build projects that solve real world problems and support decision making.
 
 Currently expanding my skills toward Data Science.
 
@@ -31,7 +31,11 @@ Currently expanding my skills toward Data Science.
 **Currently Learning:**  
 - SQL  
 - Python  
-- Data Science  
+- Data Science
+  
+---
+## 🎓 Education
+B.Eng, Chemical Engineering
 
 ---
 
@@ -46,7 +50,7 @@ Currently expanding my skills toward Data Science.
 ---
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio (Notion): https://www.notion.so/victorchimbuo/IKEDICHUKWU-VICTOR-CHIMBUO-Data-Analytics-Data-Science-34cd548494ee8003b6b2cbe682c95c21?source=copy_link 
+- 🌍 Portfolio (Notion): https://www.notion.so/victorchimbuo/IKEDICHUKWU-VICTOR-CHIMBUO-Data-Analytics-Data-Science-34cd548494ee8003b6b2cbe682c95c21
 - 💼 LinkedIn: https://linkedin.com/in/ikedichukwu-v-chimbuo  
 - 𝕏 X (Twitter): https://x.com/VC_DataLab 
 - 📊 Kaggle: https://kaggle.com/victorchimbuodatalab 

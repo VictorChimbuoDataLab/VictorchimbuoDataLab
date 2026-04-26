@@ -1,6 +1,6 @@
-![Banner](https://github.com/VictorChimbuoDataLab/Assets/blob/main/VC_DataLab%20Cover%20Photo%20%26%20Banner.png)
+![Banner](https://github.com/VictorChimbuoDataLab/Assets/blob/main/I.%20Victor%20Chimbuo-Banner.png)
 
-<img src="https://github.com/VictorChimbuoDataLab/Assets/blob/main/freepik_0001.png" align="right" width="250" />
+<img src="https://github.com/VictorChimbuoDataLab/Assets/blob/main/I.%20Victor%20Chimbuo-Profile-Image.png" align="right" width="250" />
 
 <h1 align="center">Hi, I am I. Victor Chimbuo👋</h1>
 

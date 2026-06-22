@@ -49,20 +49,23 @@ B.Eng, Chemical Engineering
 
 ---
 ## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/ikedichukwu-v-chimbuo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://x.com/VC_DataLab"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://kaggle.com/victorchimbuodatalab "><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://wa.me/2348051673752"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.notion.so/victorchimbuo/IKEDICHUKWU-VICTOR-CHIMBUO-Data-Analytics-Data-Science-34cd548494ee8003b6b2cbe682c95c21"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/ikedichukwu-v-chimbuo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/VC_DataLab" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://kaggle.com/victorchimbuodatalab" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://wa.me/2348051673752" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.notion.so/victorchimbuo/IKEDICHUKWU-VICTOR-CHIMBUO-Data-Analytics-Data-Science-34cd548494ee8003b6b2cbe682c95c21" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
 </p>
-
-- 🌍 Portfolio (Notion): https://www.notion.so/victorchimbuo/IKEDICHUKWU-VICTOR-CHIMBUO-Data-Analytics-Data-Science-34cd548494ee8003b6b2cbe682c95c21
-- 💼 LinkedIn: https://linkedin.com/in/ikedichukwu-v-chimbuo  
-- 𝕏 X (Twitter): https://x.com/VC_DataLab 
-- 📊 Kaggle: https://kaggle.com/victorchimbuodatalab 
-- 💬 WhatsApp: https://wa.me/2348051673752
 
 ---
 

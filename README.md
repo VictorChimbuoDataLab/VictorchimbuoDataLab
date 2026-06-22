@@ -41,9 +41,13 @@ B.Eng, Chemical Engineering
 
 ## 📊 Projects
 
-- **Excel Data Cleaning Project**  
-- **Sales Analysis (Excel + Pivot Tables)**  
-- **Power BI Sales Dashboard**
+-**E-Commerce Sales and Operations Intelligence Dashboard**
+-**Logistics Fleet Performance Analytics**
+-**E-commerce-Sales-Delivery-Performance-E.D.A**
+-**Sales-Analytics-Dashboard-Power-BI-End-to-End-Project**
+-**Sales Analysis (Excel + Pivot Tables)**  
+-**Excel Data Cleaning Project**  
+
 
 👉 Check my repositories below for full details.
 

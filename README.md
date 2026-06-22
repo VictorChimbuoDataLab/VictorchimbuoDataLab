@@ -50,11 +50,11 @@ B.Eng, Chemical Engineering
 ---
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/ikedichukwu-v-chimbuo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/VC_DataLab" target="_blank">
+   <a href="https://x.com/VC_DataLab" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+   <a href="https://linkedin.com/in/ikedichukwu-v-chimbuo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
     <a href="https://www.notion.so/victorchimbuo/IKEDICHUKWU-VICTOR-CHIMBUO-Data-Analytics-Data-Science-34cd548494ee8003b6b2cbe682c95c21" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>

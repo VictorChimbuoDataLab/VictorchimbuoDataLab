@@ -56,14 +56,14 @@ B.Eng, Chemical Engineering
   <a href="https://x.com/VC_DataLab" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://kaggle.com/victorchimbuodatalab" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <a href="https://www.notion.so/victorchimbuo/IKEDICHUKWU-VICTOR-CHIMBUO-Data-Analytics-Data-Science-34cd548494ee8003b6b2cbe682c95c21" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
   <a href="https://wa.me/2348051673752" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.notion.so/victorchimbuo/IKEDICHUKWU-VICTOR-CHIMBUO-Data-Analytics-Data-Science-34cd548494ee8003b6b2cbe682c95c21" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+    <a href="https://kaggle.com/victorchimbuodatalab" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
 
